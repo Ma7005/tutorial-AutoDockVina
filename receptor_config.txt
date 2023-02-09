@@ -1,4 +1,5 @@
-receptor = receptor.pdbqt
+receptor = p32.pdbqt
+ligand=47002.pdbqt
 
 center_x = 30.247
 center_y = 37.305
