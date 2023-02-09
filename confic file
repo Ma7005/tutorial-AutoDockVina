@@ -1,0 +1,15 @@
+receptor = p32.pdbqt
+ligand=47002.pdbqt
+
+center_x = 30.247
+center_y = 37.305
+center_z = 48.075
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+
+
+
+exhaustiveness = 8
